@@ -1,0 +1,18 @@
+@media (min-width:768px)
+    {
+      ul li
+      {
+        display: none;
+      }
+    }
+    li a
+    {
+      font-size:20px;
+    }
+    section h1
+    {
+      margin-top:20px;
+      margin-bottom:24px;
+      font-size:60px;
+    }
+  }
